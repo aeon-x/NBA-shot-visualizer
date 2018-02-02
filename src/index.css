@@ -1,5 +1,8 @@
 @import 'styles/App.css';
 @import 'styles/TopNavBar.css';
+@import 'styles/ShortChart.css';
+@import  'styles/Profile.css';
+@import 'styles/Main.css';
 
 body {
   margin: 0;
