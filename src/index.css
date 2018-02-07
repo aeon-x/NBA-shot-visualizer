@@ -3,6 +3,8 @@
 @import 'styles/ShortChart.css';
 @import  'styles/Profile.css';
 @import 'styles/Main.css';
+@import "styles/DataViewContainer.css";
+@import '~antd/dist/antd.css';
 
 body {
   margin: 0;
